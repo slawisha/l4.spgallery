@@ -1,0 +1,435 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"att",
+				"attr	.attr() - single"
+			],
+			[
+				"rg",
+				"rgba	rgba()"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"lis",
+				"list	list-style-type"
+			],
+			[
+				"Sess",
+				"Session-has	Session-has"
+			],
+			[
+				"re",
+				"ret	return"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"Pass",
+				"Password-reset	Password-reset"
+			],
+			[
+				"ga",
+				"galleries"
+			],
+			[
+				"Redirect",
+				"Redirect-to	Redirect-to"
+			],
+			[
+				"Red",
+				"Redirect	Laravel: Redirect::to()"
+			],
+			[
+				"galler",
+				"gallery_id"
+			],
+			[
+				"Auth",
+				"Auth	Laravel: Auth::user()"
+			],
+			[
+				"Repos",
+				"RepositoryInterface"
+			],
+			[
+				"Inp",
+				"Input	Laravel: Input::get()"
+			],
+			[
+				"upload",
+				"uploads"
+			],
+			[
+				"pub",
+				"public_path"
+			],
+			[
+				"array_p",
+				"array_pop"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"Ro",
+				"Route	Laravel: Route::get()"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"ro",
+				"Route"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/c/wamp/www/l4.spgallery/app/views/layouts/master.blade.php",
+			"settings":
+			{
+				"buffer_size": 3347,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/c/wamp/www/l4.spgallery/app/config/database.php",
+			"settings":
+			{
+				"buffer_size": 3537,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"pa",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"isn",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 522.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			":tag FormBuilder",
+			"ctags",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/c/wamp/www/l4.spgallery/app/Spgallery/Repositories/Photo/EloquentRepository.php",
+		"/c/wamp/www/l4.spgallery/app/views/users/create.blade.php",
+		"/c/wamp/www/l4.spgallery/app/config/mail.php",
+		"/c/wamp/www/l4.spgallery/.gitignore",
+		"/c/wamp/www/l4.spgallery/public/uploadify/uploadify.php",
+		"/c/wamp/www/l4.spgallery/app/Spgallery/Repositories/Photo/RepositoryInterface.php",
+		"/c/wamp/www/l4.spgallery/app/views/galleries/create.blade.php",
+		"/c/wamp/www/l4.spgallery/app/database/migrations/2013_10_25_202727_create_photos_table.php",
+		"/c/wamp/www/l4.spgallery/vendor/laravel/framework/src/Illuminate/Auth/Guard.php",
+		"/c/wamp/www/l4.spgallery/app/Spgallery/Image.php",
+		"/c/wamp/www/l4.spgallery/public/js/script.js",
+		"/c/wamp/www/l4.spgallery/app/Spgallery/Repositories/Gallery/RepositoryInterface.php",
+		"/C/Users/Slavisa Petrovic/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/c/wamp/www/l4.spgallery/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+		"/c/wamp/www/l4.spgallery/public/uploadify/jquery.uploadify.js",
+		"/c/wamp/www/l4.spgallery/vendor/laravel/framework/src/Illuminate/Container/Container.php",
+		"/c/wamp/www/l4.spgallery/vendor/laravel/framework/src/Illuminate/Html/FormBuilder.php",
+		"/C/Users/Slavisa Petrovic/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/c/wamp/www/l4.spgallery/bootstrap/start.php",
+		"/C/Users/Slavisa Petrovic/AppData/Roaming/Sublime Text 3/Packages/CTags/Default.sublime-keymap",
+		"/C/Users/Slavisa Petrovic/AppData/Roaming/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+		"/C/Users/Slavisa Petrovic/AppData/Roaming/Sublime Text 3/Packages/User/CTags.sublime-settings",
+		"/C/Users/Slavisa Petrovic/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Slavisa Petrovic/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"gallery",
+			"Gallery",
+			"upload",
+			"uploads"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/c/wamp/www/l4.spgallery/app/views/layouts/master.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3347,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								862,
+								862
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/c/wamp/www/l4.spgallery/app/config/database.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3537,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								722,
+								722
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 900.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "l4.spgallery.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"data",
+				"app\\config\\database.php"
+			],
+			[
+				"app/view",
+				"app\\views\\layouts\\master.blade.php"
+			],
+			[
+				"sscrip",
+				"public\\js\\script.js"
+			],
+			[
+				"sty",
+				"public\\css\\style.css"
+			],
+			[
+				"gal",
+				"app\\controllers\\GalleriesController.php"
+			],
+			[
+				"edit",
+				"app\\views\\galleries\\edit.blade.php"
+			],
+			[
+				"route",
+				"app\\routes.php"
+			],
+			[
+				"mail",
+				"app\\config\\mail.php"
+			],
+			[
+				"show",
+				"app\\views\\galleries\\show.blade.php"
+			],
+			[
+				"formbui",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Html\\FormBuilder.php"
+			],
+			[
+				"blade.php",
+				"app\\views\\galleries\\create.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\sites\\l4.favoritethis\\l4.favoritethis.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"bind",
+				"bind"
+			],
+			[
+				"open",
+				"open"
+			],
+			[
+				"FormB",
+				"FormBuilder"
+			]
+		],
+		"width": 794.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

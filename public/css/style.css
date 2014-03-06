@@ -1,0 +1,33 @@
+/*** navigation ***/
+
+.navbar-brand {margin-right: -30px;} 
+
+.menu {padding-top: 15px;}
+
+.menu-right{margin-right: 20px;}
+
+.menu li {list-style: none; display: inline; margin-left:10px;}
+
+	.menu li a:hover {text-decoration: none; color: #0071d3;}
+
+/*** form styles ***/
+
+label {display: block;}
+
+input, textarea {display: block; margin-bottom: 20px;}
+
+.delete {color:red; border:none; background-color: inherit; float: left; font-size: 22px; margin: -2px 5px 0 0;}
+
+td, th{padding: 20px;}
+
+/*** aside ***/
+aside {padding-top: 20px;}
+
+.image-list {}
+
+.image-list li {position: relative;float: left; list-style-type: none; }
+
+.delete-image {color: red; font-size: 1.5em; padding:0px 5px; position: absolute; top:5px; left: 80%; cursor: pointer; background: rgba(0,0,0,0.3)}
+
+/*** helper classes ***/
+.clearfix{clear: both;}
